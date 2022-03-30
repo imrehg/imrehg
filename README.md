@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+- Find what I'm currently working on on [my "Now" page](https://gergely.imreh.net/now/).
+- 💬 Ask me about Taiwan, Machine Learning Engineering, or hackerspaces.
+- Work context available on [LinkedIn](https://www.linkedin.com/in/gergelyimreh/).
+
 <!--
 **imrehg/imrehg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
